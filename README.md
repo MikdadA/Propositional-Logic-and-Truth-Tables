@@ -1,4 +1,3 @@
-Introduction:
 
 In this assignment, we will write a Python program that
 generates the "truth table" for a set of Boolean variables (i.e. all possible assignments of T/F to those variables)
@@ -6,33 +5,6 @@ for each row of the truth table, evaluates the same Boolean expression implement
 determines whether the expression is a tautology (always true), contradiction (always false), or contingency (truth depends on the assignment of TRUE/FALSE to the variables)
 determines whether two expressions E1 E2 are logically equivalent by checking whether E1 ↔ E2 is a tautology.    
 
-Submissions:
-
-In the Google form, please submit:
-
-Assignment1.py (your program)
-Assignment1.txt (console output showing the truth-tables and summary information for functions f0 - f18)
-
-Standard Preliminary Tasks:
-
-[1] Install the Python language and interpreter and the PyCharm integrated development environment (IDE) and get the sample "Hello User" program running  as  outlined in "Assignment #0: Installing Python and PyCharm".  
-
-[2] Add a comment at the top. (This will also be a template for commenting future assignments) 
-
-[3] Define a function main() which will be the springboard for the execution of all other code in this assignment. 
-
-def main():
-    pass # placeholder until actual function content is provided
-
-[4] Add these lines just below the main() function to ensure that importing of this module into another program will not automatically run it. 
-
-if __name__ == "__main__": 
-    main()
-
-[5] Create a program configuration. Note: one will automatically be created if you run via the Run menu item.
-
-
-Assignment-Specific Tasks:
 
 [1] Near the beginning of the program, write the following line to give us access to some important Python packages
 
