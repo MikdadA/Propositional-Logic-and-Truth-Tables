@@ -1,5 +1,5 @@
 
-In this assignment, we will write a Python program that
+In this project, we will write a Python program that
 generates the "truth table" for a set of Boolean variables (i.e. all possible assignments of T/F to those variables)
 for each row of the truth table, evaluates the same Boolean expression implemented as a function
 determines whether the expression is a tautology (always true), contradiction (always false), or contingency (truth depends on the assignment of TRUE/FALSE to the variables)
